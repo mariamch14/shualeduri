@@ -1,0 +1,98 @@
+
+.title{
+	text-align: center;
+	font-size: 18px;
+}
+.mainbox{
+	width:1286px;
+	height:700px;
+	background-color: #56836F ;
+	border: 4px solid #006837;
+	margin-top: 10px;
+	margin-left: 40px;
+}
+
+.maintext{
+	font-size: 48px;
+	color: white;
+	text-align: center;
+	width: 786px;
+    height: 64px;
+    padding-top: 36px;
+    padding-left: 177px;
+    display: inline-block;
+    font-family: Roboto;
+
+}
+.logo{
+	width: 201px;
+	height: 151px;
+	padding-left: 1028px;
+	top: 89px;
+	display: inline-block;
+	
+}
+ .logtx{
+
+ }
+.smol1 {
+	width: 617px;
+    height: 356px;
+    background-color: #FCEE21;
+    margin-top: 63px;
+    margin-left: 10px;
+    
+
+}
+
+
+.pic1{
+	width: 150px;
+	height: 100px;
+    padding-top: 17px;
+    padding-left: 438px;
+    position: absolute;
+    
+}
+.text1{
+	font-size: 14px;
+	color: #000000; 
+	padding-top: 22px;
+    padding-left: 38px;
+    display: inline-block;
+    text-align: left;
+
+
+}
+.smol2 {
+	width: 617px;
+    height: 356px;
+    background-color: #FCEE21;
+    display: inline-block;
+    top: 348px;
+    margin-left: 50px;
+    position: absolute;
+   
+
+}
+.pic2{
+	width: 150px;
+	height: 100px;
+    padding-top: 17px;
+    padding-left: 30px;
+    position: absolute;
+
+    
+}
+
+.text2{
+	color: #006837;
+	font-size: 14px;
+	padding-right: : 30px;
+	padding-top: 22px;
+	display: inline-block;
+	position: absolute;
+	text-align: right;
+	}
+	
+
